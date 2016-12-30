@@ -1,0 +1,17 @@
+commit 6c5144e917df6ef54c437a12ebff733a4bf26daa
+Author: isaac <isaac_33.1@hotmail.com>
+Date:   Fri Dec 30 13:30:28 2016 -0600
+
+    Agregamos imagen girls.jpg y modificamos address en estilos.css
+
+commit 6864d9020b22d4c2f7606e6f8e80c89e605c9d4a
+Author: isaac <isaac_33.1@hotmail.com>
+Date:   Fri Dec 30 12:59:45 2016 -0600
+
+    Agregamos imagen de paisaje a la pagina
+
+commit ee0378322ad84c9581b6f08c7094c86ddd1059f8
+Author: isaac <isaac_33.1@hotmail.com>
+Date:   Fri Dec 30 12:48:30 2016 -0600
+
+    Iniciamos
